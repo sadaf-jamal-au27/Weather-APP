@@ -1,1 +1,1 @@
-# PWA-weather-app
+# Weather App using Progressive Web APP
